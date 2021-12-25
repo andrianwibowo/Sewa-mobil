@@ -1,0 +1,10 @@
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\bin\Debug\AplikasiSewaMobilku.exe.config
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\bin\Debug\AplikasiSewaMobilku.exe
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\bin\Debug\AplikasiSewaMobilku.pdb
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\obj\Debug\AplikasiSewaMobilku.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\obj\Debug\AplikasiSewaMobilku.Form1.resources
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\obj\Debug\AplikasiSewaMobilku.FormMobilku.resources
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\obj\Debug\AplikasiSewaMobilku.Properties.Resources.resources
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\obj\Debug\AplikasiSewaMobilku.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\obj\Debug\AplikasiSewaMobilku.exe
+C:\Users\Acer\Documents\Tugas semester 5\KUMPULAN TUGAS NET\AplikasiSewaMobilku\AplikasiSewaMobilku\obj\Debug\AplikasiSewaMobilku.pdb
